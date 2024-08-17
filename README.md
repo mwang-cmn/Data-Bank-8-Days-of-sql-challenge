@@ -1,7 +1,7 @@
 # Data Bank - 8 Days of SQL Challenge by Danny Ma.
 ## Problem Overview
 Data Bank is an online digital bank, that not only provides banking solutions, but also serves as an online secure distributed data storage platform. Customers are allocated cloud data storage limit, directly linked to their account balances. The management of Data Bank want to increase their total customer base and improve tracking of how much data storage their customers will need. In this project, I will attempt to solve this [challenge](https://8weeksqlchallenge.com/case-study-4/).
-
+Read more - [here](https://dev.to/caroline_mwangi/exploration-of-digital-banking-transactions-a-sql-analysis-1hl0)
 ### Entity Relationship Diagram
 ![Capture](https://github.com/mwang-cmn/Data-Bank-8-Days-of-sql-challenge/assets/73072045/ca438b66-eb6d-4b3e-ba9f-94ea75347732)
 
